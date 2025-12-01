@@ -56,5 +56,9 @@ messages.append({
 ``` 
 **不可或缺的参数是role,tool_call_id,name,content，这样openai才能根据传入的新的messages解析并确返回数据**
 
+## 增加一个使用function calling的知识检索demo
+
+增加arxiv进行文件的检索以及下载，保存到本地，并且进行总结内容。优化了原OpenAI的function call写法，改成新版的 tool call
+
 
 
