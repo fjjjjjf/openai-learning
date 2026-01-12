@@ -1,0 +1,19 @@
+2026-01-11 15:12:00,718 INFO Processing request of type ListToolsRequest
+2026-01-11 15:12:00,723 INFO Processing request of type ListToolsRequest
+2026-01-11 15:12:05,902 INFO Processing request of type CallToolRequest
+2026-01-11 15:12:05,913 INFO Called get_stock_info_sync: ticker=GOOGL
+2026-01-11 15:12:10,960 INFO Processing request of type CallToolRequest
+2026-01-11 15:12:10,962 INFO Called get_stock_info_sync: ticker=GOOGL
+2026-01-11 15:12:12,814 INFO Request 3 cancelled - duplicate response suppressed
+2026-01-11 15:20:11,085 INFO Processing request of type ListToolsRequest
+2026-01-11 15:20:11,086 INFO Processing request of type ListToolsRequest
+2026-01-11 15:20:17,019 INFO Processing request of type CallToolRequest
+2026-01-11 15:20:17,020 INFO Called get_stock_info_sync: ticker=GOOGL
+2026-01-11 15:24:10,974 INFO Starting Yahoo Finance MCP server...
+2026-01-11 15:24:12,224 INFO Starting Yahoo Finance MCP server...
+2026-01-11 15:24:13,841 INFO Starting Yahoo Finance MCP server...
+2026-01-11 15:24:14,729 INFO Starting Yahoo Finance MCP server...
+2026-01-11 15:24:21,347 INFO Processing request of type ListToolsRequest
+2026-01-11 15:24:21,351 INFO Processing request of type ListToolsRequest
+2026-01-11 15:24:27,794 INFO Processing request of type CallToolRequest
+2026-01-11 15:24:27,798 INFO Called get_stock_info_sync: ticker=GOOGL
